@@ -1,3 +1,11 @@
+# Background Changer small app
+
+## Covered Topic:
+- useState :-
+  useState is a React Hook that lets you add a state variable to your component.
+
+  Syntax : const [state, setState] = useState(initialState)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
