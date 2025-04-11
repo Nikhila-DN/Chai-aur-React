@@ -1,5 +1,7 @@
 # Passworword Generator
 
+#### Live site : https://password-generator-react-app-by-nikhi.netlify.app/
+
 ## Covered Topics & used:
 
 - ### useEffect :
